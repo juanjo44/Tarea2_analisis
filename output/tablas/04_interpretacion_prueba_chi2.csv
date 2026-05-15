@@ -1,0 +1,6 @@
+aspecto,detalle
+Hipótesis nula,Cultivo y topografía son independientes
+Hipótesis alternativa,Cultivo y topografía son dependientes
+Regla de decisión,Rechazar H0 si p-valor < 0.05
+Decisión,Se rechaza H0
+Conclusión,Existe evidencia estadísticamente significativa de asociación entre cultivo y topografía

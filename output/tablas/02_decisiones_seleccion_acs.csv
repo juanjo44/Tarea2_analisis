@@ -1,0 +1,6 @@
+criterio,decision
+Variable fila,Cultivo
+Variable columna,Topografia
+Exclusión de 'No indica',Sí
+Top cultivos seleccionados,Top 10 por frecuencia
+Agrupación de topografías raras,No

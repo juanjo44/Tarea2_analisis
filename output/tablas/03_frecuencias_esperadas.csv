@@ -1,0 +1,121 @@
+cultivo,topografia,frecuencia_esperada
+Aguacate,Fuertemente ondulado,3.693
+Aguacate,Ligeramente ondulado,179.8268
+Aguacate,Moderadamente ondulado,615.0836
+Aguacate,Ondulado,655.6036
+Aguacate,Ondulado y pendiente,95.299
+Aguacate,Pendiente,606.877
+Aguacate,Pendiente fuerte,47.7008
+Aguacate,Pendiente leve,120.2265
+Aguacate,Pendiente moderada,692.2255
+Aguacate,Plano,1607.4651
+Aguacate,Plano y ondulado,82.1684
+Aguacate,Plano y pendiente,56.8306
+Arroz,Fuertemente ondulado,2.1446
+Arroz,Ligeramente ondulado,104.4302
+Arroz,Moderadamente ondulado,357.1953
+Arroz,Ondulado,380.7264
+Arroz,Ondulado y pendiente,55.3426
+Arroz,Pendiente,352.4295
+Arroz,Pendiente fuerte,27.7011
+Arroz,Pendiente leve,69.8187
+Arroz,Pendiente moderada,401.9937
+Arroz,Plano,933.4974
+Arroz,Plano y ondulado,47.7174
+Arroz,Plano y pendiente,33.003
+Cacao,Fuertemente ondulado,7.8566
+Cacao,Ligeramente ondulado,382.5709
+Cacao,Moderadamente ondulado,1308.5539
+Cacao,Ondulado,1394.7579
+Cacao,Ondulado y pendiente,202.7429
+Cacao,Pendiente,1291.0949
+Cacao,Pendiente fuerte,101.4806
+Cacao,Pendiente leve,255.7747
+Cacao,Pendiente moderada,1472.6688
+Cacao,Plano,3419.7866
+Cacao,Plano y ondulado,174.8085
+Cacao,Plano y pendiente,120.9037
+Café,Fuertemente ondulado,3.4596
+Café,Ligeramente ondulado,168.4626
+Café,Moderadamente ondulado,576.2131
+Café,Ondulado,614.1725
+Café,Ondulado y pendiente,89.2765
+Café,Pendiente,568.5252
+Café,Pendiente fuerte,44.6863
+Café,Pendiente leve,112.6287
+Café,Pendiente moderada,648.48
+Café,Plano,1505.8806
+Café,Plano y ondulado,76.9758
+Café,Plano y pendiente,53.2392
+Caucho,Fuertemente ondulado,1.0824
+Caucho,Ligeramente ondulado,52.7059
+Caucho,Moderadamente ondulado,180.2765
+Caucho,Ondulado,192.1526
+Caucho,Ondulado y pendiente,27.9314
+Caucho,Pendiente,177.8712
+Caucho,Pendiente fuerte,13.9807
+Caucho,Pendiente leve,35.2375
+Caucho,Pendiente moderada,202.8862
+Caucho,Plano,471.1361
+Caucho,Plano y ondulado,24.083
+Caucho,Plano y pendiente,16.6566
+Caña Panelera,Fuertemente ondulado,3.1851
+Caña Panelera,Ligeramente ondulado,155.0973
+Caña Panelera,Moderadamente ondulado,530.4983
+Caña Panelera,Ondulado,565.4461
+Caña Panelera,Ondulado y pendiente,82.1936
+Caña Panelera,Pendiente,523.4203
+Caña Panelera,Pendiente fuerte,41.141
+Caña Panelera,Pendiente leve,103.6931
+Caña Panelera,Pendiente moderada,597.0318
+Caña Panelera,Plano,1386.4091
+Caña Panelera,Plano y ondulado,70.8688
+Caña Panelera,Plano y pendiente,49.0154
+Maíz,Fuertemente ondulado,1.7717
+Maíz,Ligeramente ondulado,86.2701
+Maíz,Moderadamente ondulado,295.08
+Maíz,Ondulado,314.5191
+Maíz,Ondulado y pendiente,45.7187
+Maíz,Pendiente,291.143
+Maíz,Pendiente fuerte,22.884
+Maíz,Pendiente leve,57.6774
+Maíz,Pendiente moderada,332.088
+Maíz,Plano,771.1647
+Maíz,Plano y ondulado,39.4195
+Maíz,Plano y pendiente,27.2639
+Pasto Kikuyo,Fuertemente ondulado,1.1398
+Pasto Kikuyo,Ligeramente ondulado,55.4998
+Pasto Kikuyo,Moderadamente ondulado,189.8327
+Pasto Kikuyo,Ondulado,202.3383
+Pasto Kikuyo,Ondulado y pendiente,29.412
+Pasto Kikuyo,Pendiente,187.2999
+Pasto Kikuyo,Pendiente fuerte,14.7218
+Pasto Kikuyo,Pendiente leve,37.1054
+Pasto Kikuyo,Pendiente moderada,213.6409
+Pasto Kikuyo,Plano,496.1104
+Pasto Kikuyo,Plano y ondulado,25.3596
+Pasto Kikuyo,Plano y pendiente,17.5396
+Pastos,Fuertemente ondulado,9.7282
+Pastos,Ligeramente ondulado,473.7113
+Pastos,Moderadamente ondulado,1620.2927
+Pastos,Ondulado,1727.0332
+Pastos,Ondulado y pendiente,251.0427
+Pastos,Pendiente,1598.6744
+Pastos,Pendiente fuerte,125.6565
+Pastos,Pendiente leve,316.7083
+Pastos,Pendiente moderada,1823.5049
+Pastos,Plano,4234.4875
+Pastos,Plano y ondulado,216.4534
+Pastos,Plano y pendiente,149.7068
+Plátano,Fuertemente ondulado,1.9391
+Plátano,Ligeramente ondulado,94.4251
+Plátano,Moderadamente ondulado,322.9738
+Plátano,Ondulado,344.2504
+Plátano,Ondulado y pendiente,50.0405
+Plátano,Pendiente,318.6646
+Plátano,Pendiente fuerte,25.0472
+Plátano,Pendiente leve,63.1296
+Plátano,Pendiente moderada,363.4802
+Plátano,Plano,844.0626
+Plátano,Plano y ondulado,43.1458
+Plátano,Plano y pendiente,29.8411

@@ -1,0 +1,121 @@
+cultivo,topografia,proporcion
+Pastos,Plano,0.102841
+Cacao,Plano,0.074691
+Arroz,Plano,0.047016
+Cacao,Pendiente moderada,0.042299
+Pastos,Ondulado,0.039478
+Pastos,Moderadamente ondulado,0.037841
+Cacao,Moderadamente ondulado,0.035752
+Caña Panelera,Ondulado,0.032521
+Pastos,Pendiente moderada,0.031014
+Caña Panelera,Pendiente,0.030411
+Maíz,Plano,0.030109
+Café,Pendiente moderada,0.026534
+Plátano,Plano,0.025608
+Cacao,Pendiente,0.024854
+Aguacate,Pendiente moderada,0.02382
+Pastos,Pendiente,0.023648
+Aguacate,Pendiente,0.023303
+Caucho,Plano,0.017725
+Café,Pendiente,0.016735
+Aguacate,Moderadamente ondulado,0.015808
+Café,Ondulado,0.015464
+Aguacate,Ondulado,0.01499
+Cacao,Ondulado,0.014968
+Caña Panelera,Plano,0.014818
+Pastos,Ligeramente ondulado,0.013439
+Café,Moderadamente ondulado,0.012815
+Cacao,Ligeramente ondulado,0.011307
+Aguacate,Plano,0.011156
+Pasto Kikuyo,Ondulado,0.011113
+Plátano,Pendiente moderada,0.008744
+Maíz,Moderadamente ondulado,0.008723
+Pastos,Plano y pendiente,0.00827
+Pasto Kikuyo,Plano,0.008033
+Cacao,Pendiente leve,0.006354
+Plátano,Moderadamente ondulado,0.005815
+Café,Pendiente leve,0.005492
+Café,Plano,0.005492
+Arroz,Plano y ondulado,0.005406
+Caña Panelera,Pendiente moderada,0.004867
+Pastos,Plano y ondulado,0.004846
+Café,Ondulado y pendiente,0.004566
+Aguacate,Ligeramente ondulado,0.004544
+Pasto Kikuyo,Pendiente,0.004394
+Caucho,Moderadamente ondulado,0.004286
+Café,Pendiente fuerte,0.004221
+Plátano,Ondulado,0.004092
+Pastos,Ondulado y pendiente,0.004006
+Café,Ligeramente ondulado,0.003597
+Aguacate,Pendiente leve,0.003489
+Pastos,Pendiente leve,0.003446
+Caña Panelera,Moderadamente ondulado,0.003231
+Cacao,Ondulado y pendiente,0.003166
+Aguacate,Ondulado y pendiente,0.00308
+Plátano,Pendiente,0.003058
+Pasto Kikuyo,Moderadamente ondulado,0.003037
+Plátano,Ondulado y pendiente,0.002498
+Maíz,Pendiente moderada,0.002412
+Maíz,Ondulado,0.002197
+Arroz,Pendiente moderada,0.002175
+Cacao,Pendiente fuerte,0.002132
+Caucho,Ondulado,0.002089
+Cacao,Plano y ondulado,0.002046
+Caucho,Pendiente moderada,0.001938
+Caucho,Pendiente leve,0.001874
+Arroz,Moderadamente ondulado,0.001831
+Plátano,Pendiente leve,0.001723
+Pasto Kikuyo,Ondulado y pendiente,0.001658
+Pasto Kikuyo,Pendiente moderada,0.001529
+Maíz,Pendiente leve,0.001249
+Caña Panelera,Ligeramente ondulado,0.001206
+Pastos,Pendiente fuerte,0.001141
+Aguacate,Pendiente fuerte,0.001098
+Maíz,Plano y pendiente,0.001077
+Maíz,Plano y ondulado,9.91e-4
+Arroz,Ligeramente ondulado,9.69e-4
+Aguacate,Plano y ondulado,9.69e-4
+Plátano,Plano y ondulado,8.4e-4
+Pasto Kikuyo,Ligeramente ondulado,8.18e-4
+Arroz,Pendiente leve,7.97e-4
+Maíz,Ligeramente ondulado,7.75e-4
+Arroz,Ondulado,7.32e-4
+Plátano,Ligeramente ondulado,6.46e-4
+Maíz,Pendiente,6.46e-4
+Pasto Kikuyo,Plano y ondulado,6.25e-4
+Plátano,Pendiente fuerte,6.03e-4
+Caucho,Plano y ondulado,6.03e-4
+Maíz,Ondulado y pendiente,5.82e-4
+Caña Panelera,Pendiente leve,5.82e-4
+Cacao,Plano y pendiente,5.38e-4
+Caucho,Plano y pendiente,5.38e-4
+Café,Plano y ondulado,4.95e-4
+Caucho,Ligeramente ondulado,4.52e-4
+Maíz,Pendiente fuerte,4.52e-4
+Café,Plano y pendiente,4.52e-4
+Caña Panelera,Plano y ondulado,4.31e-4
+Arroz,Plano y pendiente,3.88e-4
+Caucho,Pendiente,3.45e-4
+Aguacate,Plano y pendiente,3.23e-4
+Pastos,Fuertemente ondulado,2.58e-4
+Café,Fuertemente ondulado,2.37e-4
+Arroz,Ondulado y pendiente,2.37e-4
+Pasto Kikuyo,Pendiente leve,2.37e-4
+Caña Panelera,Ondulado y pendiente,1.94e-4
+Caucho,Pendiente fuerte,1.94e-4
+Plátano,Plano y pendiente,1.94e-4
+Cacao,Fuertemente ondulado,1.29e-4
+Caña Panelera,Pendiente fuerte,8.6e-5
+Pasto Kikuyo,Pendiente fuerte,8.6e-5
+Pasto Kikuyo,Plano y pendiente,8.6e-5
+Caña Panelera,Fuertemente ondulado,6.5e-5
+Caña Panelera,Plano y pendiente,6.5e-5
+Pasto Kikuyo,Fuertemente ondulado,4.3e-5
+Plátano,Fuertemente ondulado,4.3e-5
+Caucho,Ondulado y pendiente,2.2e-5
+Arroz,Pendiente,2.2e-5
+Aguacate,Fuertemente ondulado,0
+Arroz,Fuertemente ondulado,0
+Caucho,Fuertemente ondulado,0
+Maíz,Fuertemente ondulado,0
+Arroz,Pendiente fuerte,0

@@ -1,0 +1,12 @@
+---
+title: "Tarea 2 - Aplicacion tecnica multivariada ACS"
+format: pdf
+---
+
+# Introduccion
+
+# Metodologia
+
+# Resultados
+
+# Conclusiones
